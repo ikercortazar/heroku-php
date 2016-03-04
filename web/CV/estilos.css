@@ -1,0 +1,12 @@
+p {color: blueviolet; font-family: Verdana;}
+h1 {color: red; font-family: cursive}
+#especial strong {
+    font: 400%/800% Arial
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: transparent;
+}
+div {
+    background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+}
